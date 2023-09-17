@@ -1,0 +1,4 @@
+ls -ptm;
+# -p -> append / to dirs
+# -t -> sort by time modified
+# -m -> comma separated
